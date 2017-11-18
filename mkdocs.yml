@@ -1,0 +1,4 @@
+site_name: rl-toolbox
+pages:
+    - Home: index.md
+    - About: about.md
